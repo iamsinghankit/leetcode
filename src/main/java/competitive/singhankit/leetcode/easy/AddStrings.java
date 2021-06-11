@@ -23,8 +23,9 @@ package competitive.singhankit.leetcode.easy;
 public class AddStrings {
     public static void main(String[] args) {
         System.out.println(new AddStrings().addStrings("1", "9"));
-          System.out.println(new AddStrings().addStrings("456", "77"));
+        System.out.println(new AddStrings().addStrings("456", "77"));
         System.out.println(new AddStrings().addStrings("584", "18"));
+        System.out.println(new AddStrings().addStrings("215", "806"));
     }
 
     public String addStrings(String num1, String num2) {
@@ -72,7 +73,6 @@ public class AddStrings {
     private int[] toIntegerArray(String num) {
         int length = num.length();
         int[] result = new int[length];
-
         for (int i = 0; i < length; i++) {
             result[i] = num.charAt(i) - '0';
         }
