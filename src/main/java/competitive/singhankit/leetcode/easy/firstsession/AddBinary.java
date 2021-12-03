@@ -1,4 +1,4 @@
-package competitive.singhankit.leetcode.easy;
+package competitive.singhankit.leetcode.easy.firstsession;
 
 /**
  * Given two binary strings a and b, return their sum as a binary string.

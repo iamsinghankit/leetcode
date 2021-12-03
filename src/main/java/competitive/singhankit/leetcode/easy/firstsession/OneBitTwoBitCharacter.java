@@ -1,4 +1,4 @@
-package competitive.singhankit.leetcode.easy;
+package competitive.singhankit.leetcode.easy.firstsession;
 
 /**
  * We have two special characters:

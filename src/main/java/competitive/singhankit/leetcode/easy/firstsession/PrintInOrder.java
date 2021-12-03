@@ -1,4 +1,4 @@
-package competitive.singhankit.leetcode.easy;
+package competitive.singhankit.leetcode.easy.firstsession;
 
 /**
  * Suppose we have a class:
